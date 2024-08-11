@@ -2,7 +2,6 @@ import React from "react";
 import BotCard from "./BotCard";
 
 function BotCollection({ bots , enlistBot, deleteBot }) {
-  // Your code here
 
   const botItem =  bots.map((bot) => {
     return (
@@ -17,7 +16,7 @@ function BotCollection({ bots , enlistBot, deleteBot }) {
 
   return (
     <div className="ui four column grid">
-      <div className="row">
+      <div className="column">
         {botItem}
         Collection of all bots
       </div>
