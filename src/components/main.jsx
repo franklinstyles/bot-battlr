@@ -1,10 +1,12 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import App from '../App.jsx'
-import './index.css'
+import React from "react";
+import BotsPage from "./BotsPage";
 
-createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
-)
+function App() {
+  return (
+    <div className="App">
+      <BotsPage />
+    </div>
+  );
+}
+
+export default App;
