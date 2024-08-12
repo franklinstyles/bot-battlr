@@ -2,7 +2,7 @@
   ==============
 
 ## Project Overview
-Bot Army Manager is a React application that allows users to manage a collection of bots. Users can view available bots, add them to their personal army, and manage the bots within their army. Each bot has unique characteristics, including a name, catchphrase, class, and stats (health, damage, and armor).
+Bot Army Manager is a React application that allows users to manage a collection of bots. Users can view available bots, add them to their personal army, and manage the bots within their army. Each bot has unique characteristics, including a name, catchphrase, class, and stats (health, damage, and armor).It has used vite react app.
 
 ## Features
 - View Bots: Browse all available bots and see their details.
