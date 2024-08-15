@@ -29,6 +29,10 @@ A reusable component that displays the details of a single bot, including its im
  ### BotSpecs
 This component is used to display detailed information about a single bot. It shows the bot's image, name, catchphrase, class, and stats. It also includes buttons for navigating back to the bot list or enlisting the bot into the user's army.
 
+## Use instructions
+- if you want to delete press that small X and you can delete the bot.
+- if you want to add a bot to your army you must press the bot itself and it will be added on the box.
+
 ## Instructions
 
 1. You can use this deployed link
